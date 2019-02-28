@@ -1,0 +1,6 @@
+1. Conference on Computer Vision and Pattern Recognition
+This was selected as the top venue as it is considered by many authorities to be the top venue for pattern recognition. The selectivity is very high. I found two papers from this venue which are highly relevant to my field, both of which have a high number of citations.
+2. Annals of Nuclear Energy
+As my project is a cross discipline effort between the nuclear industry and machine learning, it is important that I maintain attention on advances in both fields. I could find a number of papers which had a moderate relevance from this journal. I also note that although my work will not be significantly groundbreaking in the field of computer science, it will be of particular novelty to the nuclear industry, where machine learning applications are in their infancy.
+3. ECCOMAS Young Investigators Conference
+This might not be a prestigious venue but it would be a good starting point in my research career. The event caters to younger researchers who may have not submitted to a journal previously. It would also be a great venue to buildup my reputation in the ECCOMAS organisation.
